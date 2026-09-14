@@ -113,7 +113,7 @@ You can switch variants anytime: replace the file under `server/assets/release/`
 
 ### Illustrated steps
 
-**[Guide](https://drive.google.com/file/d/18gUsFUFvpg4t662RLPB2rgKxmiZbKtio/view?usp=sharing)**
+**[Guide](https://github.com/NavHobbyDev/lunar-tear-masterdata-patcher/blob/main/Colab_Patching_Guide.pdf)**
 
 ### Step-by-step
 
