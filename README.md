@@ -19,12 +19,19 @@ Special thanks to **Walter Sparrow** for the original `patch_masterdata.py`
 - Removes event tickets (obtained from variation quests) that belong to event gachas not present in the current server version
 - Removes Term Mama medals and their exchange shop
 
-## Requirements
+## How to use
+
+<details>
+<summary><b>Option 1 — Local (Windows / Linux / macOS)</b></summary>
+
+<br>
+
+### Requirements
 
 - Python 3
 - Packages: `pycryptodome`, `msgpack`, `lz4`
 
-Install dependencies:
+### Install dependencies
 
 ```bash
 # Windows
@@ -40,7 +47,7 @@ Or manually:
 python -m pip install pycryptodome msgpack lz4
 ```
 
-## Quick start
+### Quick start
 
 1. Put these files in the **same folder**:
    - `patch_masterdata.py`
@@ -94,6 +101,43 @@ python -m pip install pycryptodome msgpack lz4
 6. Restart the **server** and **client**.
 
 You can switch variants anytime: replace the file under `server/assets/release/` and restart the server and client.
+
+</details>
+
+<details>
+<summary><b>Option 2 — Google Colab (no installation needed)</b></summary>
+
+<br>
+
+> Recommended if you don't want to install Python or any packages.
+
+### Video guide
+
+**[▶ Watch the video on YouTube](https://www.youtube.com/watch?v=9u9MxGbbHxY)**
+
+### Step-by-step
+
+1. Download your masterdata file and rename it to `origin.bin.e`
+2. Copy the repository link:  
+   `https://github.com/NavHobbyDev/lunar-tear-masterdata-patcher`
+3. Go to [Google Colab](https://colab.research.google.com/)
+4. Click **Upload notebook**
+5. Select the **GitHub** tab
+6. Paste the repository URL and press Enter (or click the search icon)
+7. Select the file `patcher.ipynb`
+8. Click the **Play** button to run the notebook
+9. When the warning appears, click **Run anyway**
+10. Scroll down and wait for the **Choose Files** button
+11. Select your `origin.bin.e` and click **Open**
+12. When the options menu appears, type `1`, `2` or `3` and press **Enter**
+13. Wait until processing finishes — the file (or zip archive) will download automatically
+14. Extract the archive if needed, then copy the desired `.bin.e` file to  
+    `server/assets/release/`  
+    and rename it to `20240404193219.bin.e` if required
+
+</details>
+
+---
 
 ## Output variants
 
@@ -151,7 +195,7 @@ The core `patch_masterdata.py` logic is derived from the public [lunar-scripts](
 
 If you are the upstream author and want a different credit line, license note, or removal, open an issue or contact the maintainer.
 
-Documentation and some code extensions were written with AI assistance;
+Documentation and some code extensions were written with AI assistance;  
 the maintainer reviewed and verified the final result.
 
 ### Disclaimer
