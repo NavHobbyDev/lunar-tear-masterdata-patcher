@@ -111,9 +111,9 @@ You can switch variants anytime: replace the file under `server/assets/release/`
 
 > Recommended if you don't want to install Python or any packages.
 
-### Video guide
+### Illustrated steps
 
-**[▶ Watch the video on YouTube](https://www.youtube.com/watch?v=9u9MxGbbHxY)**
+**[Guide](https://drive.google.com/file/d/18gUsFUFvpg4t662RLPB2rgKxmiZbKtio/view?usp=sharing)**
 
 ### Step-by-step
 
