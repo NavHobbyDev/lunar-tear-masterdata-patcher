@@ -326,6 +326,8 @@
 | 6096 | Countdown Resurrected Event Medal Vol.1 |
 | 6097 | Countdown Resurrected Event Medal Vol.2 |
 | 6099 | Countdown Resurrected Event Medal Vol.3 |
+| 6105 | Mama's Character Exchange |
+| 6081 | Recalling Light Medal Exchange |
 
 ## Companions
 
@@ -359,7 +361,9 @@
 
 | ID | Name |
 |----|------|
+| 194 | Recalling Light Medal |
 | 242 | Countdown Resurrected Event Medal |
+| 252 | Mama's Character Medal |
 | 3001 | Small Stamina Recovery |
 | 3002 | Medium Stamina Recovery |
 | 6072 | Mama's Dream Summons Ticket |
