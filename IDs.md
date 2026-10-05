@@ -12,6 +12,7 @@
 | 701–705 | Abyss Tower |
 | 801 | Fate Board: Shadow |
 | 802 | Fate Board: Ternary |
+| 99001-99022 | Dark Memory |
 
 ## Record Events
 
