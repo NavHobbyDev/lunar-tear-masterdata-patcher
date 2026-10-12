@@ -238,7 +238,7 @@
 | 838 | 8229 | Hallowed Winter's Night |
 | 571 | 8140 | Holiday Dress |
 | 454 | 8100 | Japanese 1.5-Year Anniversary |
-| 608 | 8150 | Japanese 2nd Anniversary |
+| 608 | 8150 | Japanese 2nd Anniversary (2B Shattered Battler) |
 | 615 | 8152 | Japanese 2nd Anniversary Vol.2 |
 | 91028 | 8013 | Lacrima Captain |
 | 87 | 8006 | Lacrima Captive |
